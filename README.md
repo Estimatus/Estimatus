@@ -57,8 +57,8 @@ Estoy abierto a mentores, consejos y oportunidades de colaboración.
 
 | Contacto | Enlace |
 | :--- | :--- |
-| **LinkedIn** | [Mi Perfil Profesional](PON_AQUI_TU_ENLACE_DE_LINKEDIN) |
-| **Email** | [Mi Correo Electrónico](mailto:TU_CORREO@ejemplo.com) |
+| **LinkedIn** | [Mi Perfil Profesional](www.linkedin.com/in/david-leonardo-martinez-diaz-08aaab154) |
+| **Email** | [Mi Correo Electrónico](davidleo14.14@gmail.com) |
 
 ---
 
