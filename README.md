@@ -62,10 +62,4 @@ Estoy abierto a mentores, consejos y oportunidades de colaboración.
 
 ---
 
-### Lo que se ha cambiado:
 
-1.  **Nuevo Título de Sección:** Se añadió **`### 🛠️ Perfil **EN CONSTRUCCIÓN ACTIVA** 🛠️`** justo debajo del saludo para dar un mensaje claro.
-2.  **Nuevo GIF:** Se reemplazó el GIF anterior por uno que visualmente representa a alguien **trabajando diligentemente** en un terminal (símbolo de la construcción de un perfil).
-3.  **Tamaño Ajustado:** El GIF se ajustó a `width="300"` para que quede más centrado y limpio en la página.
-
-¡Con esto, tu perfil comunica perfectamente que eres un desarrollador activo y en crecimiento!
